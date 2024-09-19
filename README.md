@@ -21,28 +21,28 @@ Welcome to Blogger, a user-friendly platform where you can explore and search fo
 Home page:
 ![Home page](https://github.com/user-attachments/assets/a42cfe63-4555-4297-b1bd-3f153d7b04e4)
 
-![Home page](![image](https://github.com/user-attachments/assets/98a042cb-f373-4fee-a8fa-3e0e0e65b596)
-)
+![Home page](https://github.com/user-attachments/assets/98a042cb-f373-4fee-a8fa-3e0e0e65b596)
+
 
 
 
 Reading blogs
-![Reading Blogs](![image](https://github.com/user-attachments/assets/aa5f1b07-3150-4b9b-917e-c7787575ca14)
-)
-![Reading Blogs](![image](https://github.com/user-attachments/assets/5c2238c8-d744-4980-b98a-2948356e6824)
-)
+![Reading Blogs](https://github.com/user-attachments/assets/aa5f1b07-3150-4b9b-917e-c7787575ca14)
+
+![Reading Blogs](https://github.com/user-attachments/assets/5c2238c8-d744-4980-b98a-2948356e6824)
+
 
 Add blogs from admin panel 
-![Add block](![image](https://github.com/user-attachments/assets/b1bfc9ff-816a-413b-b1e3-025e39d4e563)
-)
+![Add block]](https://github.com/user-attachments/assets/b1bfc9ff-816a-413b-b1e3-025e39d4e563)
+
 
 Blog list
-![Blog list](![image](https://github.com/user-attachments/assets/9fe4b1a1-c94a-4a4c-9f12-5c6a0545f82b)
-)
+![Blog list](https://github.com/user-attachments/assets/9fe4b1a1-c94a-4a4c-9f12-5c6a0545f82b)
+
 
 Subscription
-![Subscription](![image](https://github.com/user-attachments/assets/a664b91c-e41e-48aa-afc8-1fb182266be8)
-)
+![Subscription](https://github.com/user-attachments/assets/a664b91c-e41e-48aa-afc8-1fb182266be8)
+
 
 
 
