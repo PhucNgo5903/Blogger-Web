@@ -19,8 +19,8 @@ Welcome to Blogger, a user-friendly platform where you can explore and search fo
 ## DEMO:
 
 Home page:
-![Home page](![image](https://github.com/user-attachments/assets/a42cfe63-4555-4297-b1bd-3f153d7b04e4)
-)
+![Home page](https://github.com/user-attachments/assets/a42cfe63-4555-4297-b1bd-3f153d7b04e4)
+
 ![Home page](![image](https://github.com/user-attachments/assets/98a042cb-f373-4fee-a8fa-3e0e0e65b596)
 )
 
