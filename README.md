@@ -33,7 +33,7 @@ Reading blogs
 
 
 Add blogs from admin panel 
-![Add block]](https://github.com/user-attachments/assets/b1bfc9ff-816a-413b-b1e3-025e39d4e563)
+![Add block](https://github.com/user-attachments/assets/b1bfc9ff-816a-413b-b1e3-025e39d4e563)
 
 
 Blog list
